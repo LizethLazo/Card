@@ -1,0 +1,18 @@
+{
+"companyName": "DefaultCompany",
+"productName": "QrZappar",
+"productVersion": "0.1",
+"dataUrl": "prueba gitCard.data.unityweb",
+"wasmCodeUrl": "prueba gitCard.wasm.code.unityweb",
+"wasmFrameworkUrl": "prueba gitCard.wasm.framework.unityweb",
+"wasmSymbolsUrl": "prueba gitCard.wasm.symbols.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "prueba gitCard.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.34f1"
+}
